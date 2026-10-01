@@ -210,23 +210,6 @@ remaining available. Payment QR codes do not transfer funds; verify the destinat
 <img src="assets/screenshots/screen8tab.png" alt="Tablet history and Premium" width="240" />
 </div>
 
-<details>
-<summary>Romanian promotional assets</summary>
-<div align="center">
-<img src="assets/Romanian/logo.png" alt="ScanPro Romanian promotional logo" width="120" />
-<img src="assets/Romanian/banner.png" alt="ScanPro Romanian promotional banner" width="100%" />
-<img src="assets/Romanian/screenshots/screen1.png" alt="ScanPro screenshot 1" width="180" />
-<img src="assets/Romanian/screenshots/screen2.png" alt="ScanPro screenshot 2" width="180" />
-<img src="assets/Romanian/screenshots/screen3.png" alt="ScanPro screenshot 3" width="180" />
-<img src="assets/Romanian/screenshots/screen4.png" alt="ScanPro screenshot 4" width="180" />
-<img src="assets/Romanian/screenshots/screen5.png" alt="ScanPro screenshot 5" width="180" />
-<img src="assets/Romanian/screenshots/screen1tab.png" alt="Tablet screenshot 1" width="240" />
-<img src="assets/Romanian/screenshots/screen2tab.png" alt="Tablet screenshot 2" width="240" />
-<img src="assets/Romanian/screenshots/screen3tab.png" alt="Tablet screenshot 3" width="240" />
-<img src="assets/Romanian/screenshots/screen4tab.png" alt="Tablet screenshot 4" width="240" />
-<img src="assets/Romanian/screenshots/screen5tab.png" alt="Tablet screenshot 5" width="240" />
-</div>
-</details>
 
 ---
 
@@ -249,11 +232,11 @@ remaining available. Payment QR codes do not transfer funds; verify the destinat
 
 | | |
 |---|---|
-| 🌐 Website | [deniscasian.com](https://deniscasian.com) |
+| 🌐 Website | [rdcapps.com](https://rdcapps.com) |
 | 📧 Support | [support@rdcapps.com](mailto:support@rdcapps.com) |
 | 🐛 Bug Reports | [bugs.rdcapps.com](https://bugs.rdcapps.com) |
 | 📱 App | [ScanPro on Google Play](https://play.google.com/store/apps/details?id=com.qrscanpro.dc) |
-| 🌐 Presentation | [apps.deniscasian.com/scanpro.html](https://apps.deniscasian.com/scanpro.html) |
+| 🌐 Presentation | [rdcapps.com/scanpro.html](https://rdcapps.com/scanpro.html) |
 
 ---
 
