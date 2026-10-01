@@ -105,7 +105,7 @@ Google Play Order ID and we will do our best to help.
 | **Download** | [go.deniscasian.com/scanpro](https://play.google.com/store/apps/details?id=com.qrscanpro.dc) |
 | **Support email** | [support@rdcapps.com](mailto:support@rdcapps.com) |
 | **Bug reports** | [bugs.rdcapps.com](https://bugs.rdcapps.com) |
-| **Website** | [deniscasian.com](https://deniscasian.com) |
+| **Website** | [rdcapps.com](https://rdcapps.com) |
 
 ---
 
